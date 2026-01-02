@@ -1,0 +1,2 @@
+# No dependencies - pure Python standard library
+# Because adding dependencies would require a meeting to discuss synergies
